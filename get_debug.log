@@ -1,0 +1,22 @@
+2025-11-19 10:33:58 - Get Request
+GET: Array
+(
+    [id] => 7
+)
+
+Processing ID: 7
+SQL: SELECT * FROM souvenirs WHERE id = ?
+Data found: sdsad
+=== Get Completed ===
+
+2025-11-24 19:47:36 - Get Request
+GET: Array
+(
+    [id] => 1
+)
+
+Processing ID: 1
+SQL: SELECT * FROM souvenirs WHERE id = ?
+Data found: coffee
+=== Get Completed ===
+
